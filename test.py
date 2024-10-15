@@ -2,6 +2,6 @@
 print("vvce")
 print("welocme")
 print("bye")
-print("Hloooooooooooooooooooooooo")
+print("Hl")
 print("byeeee")
 print("devops")
